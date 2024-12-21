@@ -72,6 +72,10 @@ group :test do
 end
 
 gem 'pry-rails'
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 group :production do
   gem 'pg'
 end
