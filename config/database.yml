@@ -21,8 +21,4 @@ test:
 production:
   <<: *default
   adapter: postgresql
-<<<<<<< Updated upstream
   url: <%= ENV['DATABASE_URL'] %>
-=======
-  url: <%= ENV['DATABASE_URL'] %>
->>>>>>> Stashed changes
